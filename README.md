@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Akram Dad Khan</h1>
 <p align="center">https://akram-portfolio-app.netlify.app/</p>
-<img align="center" src="https://komarev.com/ghpvc/?username=optimm&label=My+Visitors&color=blueviolet">
+<img align="center" src="https://komarev.com/ghpvc/?username=Akramdadkhan&label=My+Visitors&color=blueviolet">
 
 <h3>📌&nbsp&nbspAbout me </h3>
 <h3 align="center">A passionate FullStack Developer from India</h3>
