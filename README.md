@@ -10,11 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/akram_khan__17" target="blank"><img src="https://img.shields.io/twitter/follow/AKRAMKHAN?logo=twitter&style=for-the-badge" alt="akramdadkhan"  </p>
 
-- 🔭 I’m currently working on **POSGuru PVT LTD**
+- 🔭 I’m currently working on **POSGuru PVT LTD**. working on POS system products for a billion users
 
-- 🌱 I’m currently learning **Android Developemnt**
+- 👨‍🏫 BTech CSE Graduate from SSIEMS College Of Engineering, Parbhani
 
-- 💬 Ask me about **Android , MERN**
+- 👨🏽‍💻 Interested in Competitive Programming, Software Development
+
+- 🌱 I’m currently exploring **Android Developemnt**
+
+- 💬 Ask me about **Android , MERN , Software Development, System Design**, I'd love to answer!
 
 - 📫 How to reach me **akramdadkhan17@gmail.com**
 
